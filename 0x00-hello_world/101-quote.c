@@ -1,7 +1,7 @@
 #include <unistd.h>
 
 /**
- * Main - Write to stdout
+ * main - write to stdout
  * Return: Always 0
  */
 int main(void)
