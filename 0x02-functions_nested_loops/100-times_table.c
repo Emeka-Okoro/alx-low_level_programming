@@ -6,7 +6,7 @@
  * @n: int type number
  * Return: Always 0
  */
-void print_times_table(int n)
+void print_time_table(int n)
 {
 	int x = 0, y, z;
 
